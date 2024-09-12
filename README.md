@@ -50,7 +50,7 @@ This project leverages the foundational web technologies:
   ![index-validator](https://github.com/BadrAlioui/project1/blob/main/src/medias/index-validator.PNG)
 
   #### movie-cover.html:
-  ![movie-validator](https://github.com/BadrAlioui/project1-codeInstitutte/assets/96729182/1af70f16-574a-4cb7-b3b9-c6d7583f15ae)
+  ![movie-validator](https://github.com/BadrAlioui/project1/blob/main/src/medias/movie-validator.PNG)
 
   #### sign.html:
   ![sign-validator](https://github.com/BadrAlioui/project1-codeInstitutte/assets/96729182/dae1252b-7429-47d8-bfc7-e9d7e86d531c)
