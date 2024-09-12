@@ -44,7 +44,7 @@ This project leverages the foundational web technologies:
 **HTML Validation**:
 - No errors or warnings across all pages (index.html, book-cover.html, movie-cover.html, sign.html).
   #### book-cover.html
-  ![book-validator]([./src/medias/book-validator](https://github.com/BadrAlioui/project1/blob/main/src/medias/book-validator.PNG))
+  ![book-validator](https://github.com/BadrAlioui/project1/blob/main/src/medias/book-validator.PNG)
 
   #### index.html:
   ![index-validator](https://github.com/BadrAlioui/project1-codeInstitutte/assets/96729182/ddeb6a6b-84c5-497b-b1a2-490d8b05a6e8)
