@@ -85,7 +85,7 @@ Currently, there are no known unfixed bugs in the project.
 2. Go to the repository's settings, navigate to the "Pages" section.
 3. In the "Source" dropdown, select the main branch containing your project files.
 
-The Review" is hosted on GitHub Pages. You can access the live site via the following link: [The Review](https://badralioui.github.io/project1-codeInstitutte/)
+The Review" is hosted on GitHub Pages. You can access the live site via the following link: [The Review](https://badralioui.github.io/project1/)
 
 Your site should now be live on GitHub Pages!
 
