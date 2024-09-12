@@ -1,0 +1,200 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f1f1f1;
+}
+
+h1,
+h2,
+h3,
+h4,
+nav a {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.heading {
+    background-color: #373e5b;
+    color: aliceblue;
+    text-align: center;
+}
+
+.heading > img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+header a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+/* HEADER */
+
+header h1,
+header img {
+    padding: 10px;
+}
+
+header nav {
+    margin-bottom: 20px;
+    background-color: #844b3a;
+}
+
+
+
+.hero-image {
+    text-align: center;
+}
+
+.hero-image img {
+    width: 50%;
+    
+}
+
+h2 {
+    margin: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+    text-transform: uppercase;
+    color: silver;
+}
+
+/* main */
+h3::before {
+    content: ' « ';
+}
+
+h3::after {
+    content: ' » ';
+}
+
+h3 {
+    margin: 15px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* FOOTER */
+
+footer {
+    height: 33%;
+    margin-top: 50px;
+    background-color: #844b3a;
+    padding: 0 1em;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+footer .copyright {
+    padding: 1em 0;
+    color: #a3c9aa;
+}
+
+footer section {
+    flex: 1 0 auto;
+}
+
+footer #contact-us {
+    text-align: center;
+}
+
+footer a {
+    color: beige;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+footer h4 {
+    color: silver;
+    text-transform: uppercase;
+    margin-top: 15px;
+    display: block;
+    padding-bottom: 0.5rem;
+}
+
+footer .sign-form {
+    margin-bottom: 10px;
+    width: 33%;
+}
+
+footer label {
+    display: block;
+    margin-bottom: -10px;
+    color: silver;
+}
+
+footer h2 {
+    color: #a3c9aa;
+}
+
+
+
+footer #contact-us {
+    align-self: center;
+}
+
+@media (max-width: 768px) {
+    main {
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 426px) {
+
+    .hero-image img{
+width: 70%;
+    }
+    main {
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1025px) {
+    .heading {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+
+    .heading > a {
+        width: 50%;
+        align-self: center;
+    }
+
+    
+
+    header nav {
+        background-color: transparent;
+        width: 50%;
+        margin: 0;
+        align-self: center;
+    }
+}
