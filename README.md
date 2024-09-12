@@ -4,7 +4,7 @@
 "The Review" is an innovative online platform dedicated to the art of cultural criticism, with a special focus on books and movies. Our mission is to cultivate a vibrant community where enthusiasts can explore, share, and engage in discussions about their favorite cultural works. Through seamless navigation and a user-friendly design, "The Review" aims to encourage active participation and foster a sense of belonging among its members.
 
 
-!presentation](./src/medias/about-readme.jfif)
+![presentation](./src/medias/about-readme.jfif)
 
 
 
